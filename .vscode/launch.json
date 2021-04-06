@@ -1,0 +1,18 @@
+{
+    "configurations": [
+    {
+        "name": "debug xv6",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/home/coder/cs459/xv6-riscv/kernel/kernel",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "/usr/bin/gdb-multiarch",
+        "miDebuggerServerAddress": "127.0.0.1:26000",
+    }
+    ]
+}
