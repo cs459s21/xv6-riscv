@@ -4,7 +4,7 @@
         "name": "debug xv6",
         "type": "cppdbg",
         "request": "launch",
-        "program": "/home/coder/cs459/xv6-riscv/kernel/kernel",
+        "program": "${workspaceFolder}/kernel/kernel",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
